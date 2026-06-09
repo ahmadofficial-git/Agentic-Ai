@@ -19,5 +19,5 @@ I am a **Computer Science Student** and an **AI Agent Developer**. I love buildi
 ---
 
 ### 📬 Connect With Me
-- 💼 [LinkedIn](YOUR_LINK_HERE)
-- 📧 [Email](YOUR_EMAIL_HERE)
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-ahmad-ba8114367)
+- 📧 [Email](ahmadofficial630@gmail.com)
